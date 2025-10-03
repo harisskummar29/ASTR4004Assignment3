@@ -15,4 +15,4 @@ This repository contains my solutions for assignment 3
 
 ## Task 3 (Python)
 This section will include a Jupyter notebook for analysis
-Figures will be saved in `figures/` 
+Figures will be saved in `figures/'
