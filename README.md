@@ -3,16 +3,13 @@
 This repository contains my solutions for assignment 3
 
 ## Structure
-- `task3/` : Python script for analysis and plots (Task 3)  
-- `data/`  : Data files used by script 
-- `figures/` : Figures generated from analysis  
-- (Task 2 will be added later)
+- 'task2/' : Contains task2_adql.ipynb, notebook for Task 2
+- `task3/` : Contains task3_radial_metallcity.ipynb, notebook for Task 3
+- `data/`  : Contains nihao_uhd_simulation_g8.26e11_xyz_positions_and_oxygen_ao.fits, the data file for Task 2
+- `figures/` : Contains saved output figures from Tasks 2 and 3
 
 ## Git Workflow
 - Initialised repository on `main` branch  
-- Working on Task 3 in a separate branch (`task3-python`)  
-- Will merge completed work back into `main`
-
-## Task 3 (Python)
-This section will include a Jupyter notebook for analysis
-Figures will be saved in `figures/'
+- Worked on Task 2 in a separate branch (`task2-adql`)
+- Worked on Task 3 in a separate branch (`task3-python`)
+- Merged completed work back into `main`
